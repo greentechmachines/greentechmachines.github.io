@@ -1,1 +1,13 @@
-google.com, pub-2016531318761101, DIRECT, f08c47fec0942fa0
+# Sudoku Academy - GreenTech Machines LLC
+# Authorized sellers of this app's advertising inventory (IAB app-ads.txt).
+OWNERDOMAIN=greentechmachines.github.io
+
+# Unity LevelPlay / ironSource Exchange - the app's mediation and demand
+# source since 2026-09-12. Publisher ID from platform.ironsrc.com > My
+# Account > API.
+ironsrc.com, 682587, DIRECT
+
+# The AdMob line (google.com, pub-2016531318761101) was removed with the
+# migration: that account was rejected four times, never served an ad, and no
+# shipped build requests it any more. Re-adding it is one line if AdMob is
+# ever approved and added as a network inside LevelPlay.
